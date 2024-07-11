@@ -1,0 +1,46 @@
+apple
+banana
+banana
+banana
+banana
+banana
+banana
+banana
+banana
+banana
+apple
+apple
+orange
+orange: nivel de desastre detectado: bajo
+orange: nivel de desastre detectado: bajo
+orange: nivel de desastre detectado: bajo
+orange: nivel de desastre detectado: bajo
+orange: nivel de desastre detectado: bajo
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+banana: nivel de desastre detectado: medio
+banana: nivel de desastre detectado: medio
+orange: nivel de desastre detectado: bajo
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+banana: nivel de desastre detectado: medio
+banana: nivel de desastre detectado: medio
+banana: nivel de desastre detectado: medio
+banana: nivel de desastre detectado: medio
+banana: nivel de desastre detectado: medio
+banana: nivel de desastre detectado: medio
+apple: nivel de desastre detectado: alto
+orange: nivel de desastre detectado: bajo
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+apple: nivel de desastre detectado: alto
+banana: nivel de desastre detectado: medio
+banana: nivel de desastre detectado: medio
