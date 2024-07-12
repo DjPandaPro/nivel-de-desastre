@@ -5,7 +5,7 @@ import os
 
 # Programa de clasificación de objetos para video en dirección IP
 
-url = 'http://192.168.18.119/cam-hi.jpg'
+url = 'http://ip/cam-hi.jpg'
 winName = 'ESP32 CAMERA'
 cv2.namedWindow(winName, cv2.WINDOW_AUTOSIZE)
 fruitWinName = 'Fruta Detectada'
